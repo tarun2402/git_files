@@ -24,6 +24,8 @@ public class Bank {
 	public double getBalance() {
 		return balance;
 	}
+	
+	//there are multiple for example
 	public void setBalance(double balance) {
 		this.balance = balance;
 	}
