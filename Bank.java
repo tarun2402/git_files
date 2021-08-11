@@ -10,6 +10,7 @@ public class Bank {
 	private String ph_number;
 	public String getAc_number() {
 		return ac_number;
+		// jjhvfddkl gjfkdfjvf g
 	}
 	public void setAc_number(String ac_number) {
 		this.ac_number = ac_number;
